@@ -34,13 +34,13 @@ pip install transformers gradio indic-transliteration unidecode pyarabic arabic-
 ## Usage
 
 1. Open and run the notebook:  
-   `AIDI1002_Assignment_4_Fathima_Khadija_Ramzi_100948193 (1).ipynb`
+   `MultiLanguage Translator -Fathima Khadija Ramzi.ipynb`
 
-2. The Gradio interface will launch. Enter English text to see translations in all supported languages.
+3. The Gradio interface will launch. Enter English text to see translations in all supported languages.
 
 ## Files
 
-- [`AIDI1002_Assignment_4_Fathima_Khadija_Ramzi_100948193 (1).ipynb`](AIDI1002_Assignment_4_Fathima_Khadija_Ramzi_100948193%20(1).ipynb): Main Jupyter notebook with code and instructions.
+- [MultiLanguage Translator -Fathima Khadija Ramzi.ipynb]: Main Jupyter notebook with code and instructions.
 - `Multilanguage Translator Report - Fathima Khadija Ramzi.pdf`: Project report.
 
 ## Author
